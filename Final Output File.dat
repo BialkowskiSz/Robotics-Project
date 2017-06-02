@@ -1,0 +1,14 @@
+The layout of the map:
+White = 0 , Black = 1 , Object = 2, Start position = 3.
+0, 0, 1, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 1, 0, 0, 
+1, 0, 0, 0, 0, 0, 0, 0, 1, 
+0, 0, 0, 0, 1, 0, 0, 0, 1, 
+3, 1, 0, 0, 0, 0, 1, 0, 0, 
+0, 0, 1, 0, 1, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 1, 0, 
+Num of rows = 7
+Num of columns = 9
+Num of white sq = 52
+Num of black sq = 11
+Total num of sq = 63
